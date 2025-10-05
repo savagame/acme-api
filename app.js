@@ -3,5 +3,3 @@ console.log("Debug: step 2")
 console.log("Ready: step2")
 console.log("Chore: step2")
 console.log("Chore: test verified commit")
-console.log("Chore: 2nd test verified commit")
-
