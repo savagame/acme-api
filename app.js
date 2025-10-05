@@ -1,5 +1,5 @@
-console.log("Init")
-console.log("Debug: step 1")
-console.log("Ready")
+console.log("Init: stp 1")
+console.log("Debug: step 2")
+console.log("Ready: step2")
 
 
