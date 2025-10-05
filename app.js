@@ -1,5 +1,6 @@
-console.log("Init: stp 1")
-console.log("Debug: step 2")
-console.log("Ready: step2")
-console.log("Chore: step2")
-console.log("Chore: test verified commit")
+import express;
+import cors;
+
+const app = express();   // create app
+app.use(cors())		 // use cors as a middleware
+
